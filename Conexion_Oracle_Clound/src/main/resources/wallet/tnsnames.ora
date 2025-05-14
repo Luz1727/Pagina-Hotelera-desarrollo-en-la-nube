@@ -1,0 +1,12 @@
+hoteldb_high = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.mx-monterrey-1.oraclecloud.com))(connect_data=(service_name=g44fa968f8d7888_hoteldb_high.adb.oraclecloud.com))(security=(ssl_server_cert_dn="CN=adb.mx-monterrey-1.oraclecloud.com, O=Oracle Corporation, L=Redwood City, ST=California, C=US")))
+
+hoteldb_low = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.mx-monterrey-1.oraclecloud.com))(connect_data=(service_name=g44fa968f8d7888_hoteldb_low.adb.oraclecloud.com))(security=(ssl_server_cert_dn="CN=adb.mx-monterrey-1.oraclecloud.com, O=Oracle Corporation, L=Redwood City, ST=California, C=US")))
+
+hoteldb_medium = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.mx-monterrey-1.oraclecloud.com))(connect_data=(service_name=g44fa968f8d7888_hoteldb_medium.adb.oraclecloud.com))(security=(ssl_server_cert_dn="CN=adb.mx-monterrey-1.oraclecloud.com, O=Oracle Corporation, L=Redwood City, ST=California, C=US")))
+
+hoteldb_tp = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.mx-monterrey-1.oraclecloud.com))(connect_data=(service_name=g44fa968f8d7888_hoteldb_tp.adb.oraclecloud.com))(security=(ssl_server_cert_dn="CN=adb.mx-monterrey-1.oraclecloud.com, O=Oracle Corporation, L=Redwood City, ST=California, C=US")))
+
+hoteldb_tpurgent = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.mx-monterrey-1.oraclecloud.com))(connect_data=(service_name=g44fa968f8d7888_hoteldb_tpurgent.adb.oraclecloud.com))(security=(ssl_server_cert_dn="CN=adb.mx-monterrey-1.oraclecloud.com, O=Oracle Corporation, L=Redwood City, ST=California, C=US")))
+
+
+
